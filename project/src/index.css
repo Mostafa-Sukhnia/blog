@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.max-container {
+  @apply w-full px-4 md:w-[85%] md:mx-auto lg:w-[80%] lg:mx-auto;
+}
